@@ -1,6 +1,6 @@
 #second python file 
-for j2 in range(0,200):
-	print j2
+print 'Hello Vignesh'
+print 'Hello World'
 for j in range(0,1):
 	print 'Hello Vignesh'
 for k in range(0,20):
